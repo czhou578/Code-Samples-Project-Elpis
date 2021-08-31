@@ -1,7 +1,16 @@
 # Code-Samples-Project-Elpis
 
 These are code samples from my Summer 2021 work opportunity for Project Elpis, a serverless web based application designed
-to help underprivileged students track their post secondary career progress.
+to help underprivileged students track their post secondary career progress. Teachers are able to upload & assign different learning pathways
+to students and fill out forms to document progress. This can then be seen by students and parents.
+
+This application is currently being tested with over 100 students in a New York City public school.
+
+Screenshots of app that I worked on:
+
+![Screenshot (58)](https://user-images.githubusercontent.com/42430035/131586620-db8fe6da-efde-4897-b92c-6c3260c4afca.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/42430035/131586628-a50dda16-f21a-45e1-82ea-092b5e996f37.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/42430035/131586636-09af6792-be68-484b-bca4-821999ea4906.png)
 
 These are some screenshots of the wireframes that were used in the initial design.
 
