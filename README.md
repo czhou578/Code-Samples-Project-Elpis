@@ -1,4 +1,5 @@
 # Code-Samples-Project-Elpis
+## No runnable app here. Just some code samples and files.
 
 These are code samples from my Summer 2021 work opportunity for Project Elpis, a serverless web based application designed
 to help underprivileged students track their post secondary career progress. Teachers are able to upload & assign different learning pathways
